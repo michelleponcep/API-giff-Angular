@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+}
+
+#sidebar {
+    height: 100%;
+    width: 20%;
+    min-height: 100vh;
+    min-width: 200px;
+}
+
+#sidebar .list-group a{
+    text-decoration: none;
+    padding: 5px;
+    background: purple !important;
+}
